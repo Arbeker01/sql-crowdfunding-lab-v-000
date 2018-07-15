@@ -8,15 +8,13 @@ end_date REAL
 );
 
 CREATE TABLE users (
-  id INTEGER PRIMARY KEY, 
-  name TEXT, 
+  id INTEGER PRIMARY KEY,
+  name TEXT,
   age INTEGER);
 
 CREATE TABLE pledges (
-  id INTEGER PRIMARY KEY, 
-  amount INTEGER, 
+  id INTEGER PRIMARY KEY,
+  amount INTEGER,
   user_id INTEGER,
   project_id INTEGER
 );
-
-
