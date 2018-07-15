@@ -15,6 +15,6 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date)
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
             VALUES ("Project Eight", "Medicine", 25000, "6/01/2018", "12/1/2018");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
-            VALUES ("Project Nine", "Social", 4000, "5/01/2018", "8/1/2018"); 
+            VALUES ("Project Nine", "Social", 4000, "5/01/2018", "8/1/2018");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
             VALUES ("Project Ten", "Gardening", 1000, "3/01/2018", "8/11/2018");                  
