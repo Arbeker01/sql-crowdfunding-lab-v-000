@@ -18,3 +18,21 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date)
             VALUES ("Project Nine", "Social", 4000, "5/01/2018", "8/1/2018");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
             VALUES ("Project Ten", "Gardening", 1000, "3/01/2018", "8/11/2018");                  
+
+INSERT INTO projects (name, age) VALUES ("John", 14);
+INSERT INTO projects (name, age) VALUES ("Sylvester", 25);
+INSERT INTO projects (name, age) VALUES ("Darrick", 19);
+INSERT INTO projects (name, age) VALUES ("Greg", 24);
+INSERT INTO projects (name, age) VALUES ("Andy", 28);
+INSERT INTO projects (name, age) VALUES ("Rufus", 34);
+INSERT INTO projects (name, age) VALUES ("Erin", 17);
+INSERT INTO projects (name, age) VALUES ("Mary", 18);
+INSERT INTO projects (name, age) VALUES ("Sue", 21);
+INSERT INTO projects (name, age) VALUES ("Peter", 44);
+INSERT INTO projects (name, age) VALUES ("Silva", 32);
+INSERT INTO projects (name, age) VALUES ("Tom", 16);
+INSERT INTO projects (name, age) VALUES ("Jesse", 40);
+INSERT INTO projects (name, age) VALUES ("Patrick", 35);
+INSERT INTO projects (name, age) VALUES ("Sponge Bob", 18);
+INSERT INTO projects (name, age) VALUES ("Gary", 19);
+INSERT INTO projects (name, age) VALUES ("Melissa", 24);
